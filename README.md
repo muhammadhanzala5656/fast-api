@@ -13,7 +13,8 @@ pip freeze
 
 #### Create a file called learn.py and paste this code
 <pre>
-  from fastapi import FastAPI
+  
+from fastapi import FastAPI
 
 # Create an instance of the FastAPI class
 app = FastAPI()
